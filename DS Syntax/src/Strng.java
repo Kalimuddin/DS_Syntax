@@ -1,5 +1,6 @@
 import java.util.Arrays;
 
+// Basic Syntax
 public class Strng {
 	public static void main(String args[]) {
 		String kdkd = null;
