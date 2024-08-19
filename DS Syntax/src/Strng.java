@@ -7,7 +7,7 @@ public class Strng {
 		//System.out.println(kdkd.length());
 		String kd = "Kalimuddin";
 		//System.out.println(kd[1]);
-		System.out.println(kd.charAt(2));
+		System.out.println(kd.charAt(3));
 		
 		StringBuffer kbuf = new StringBuffer();
 		StringBuilder kbuild = new StringBuilder();
